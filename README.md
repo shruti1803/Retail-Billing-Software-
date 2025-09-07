@@ -2,7 +2,9 @@
 
 A modern full-stack web application built with **Spring Boot**, **React (Vite)**, **MySQL**, **AWS**, and **Razorpay** for seamless billing and payment processing.
 
----
+<img width="1918" height="969" alt="Screenshot 2025-09-07 172724" src="https://github.com/user-attachments/assets/c57e5769-1a4f-4947-b36e-3453ddb9a671" />
+<img width="1916" height="962" alt="Screenshot 2025-09-07 172708" src="https://github.com/user-attachments/assets/f7f35eec-06dc-4fcb-8482-4a205bc1bdd8" />
+
 
 ## 🚀 Features
 - 🔐 **Admin-Only Authentication** – Only the **admin** can log in and create/manage user accounts.
